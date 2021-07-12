@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "com.masai.a530_intents_and_intent_filters_open_custom_activity_from_app_selector_screen",
+  "variantName": "debug",
+  "elements": []
+}

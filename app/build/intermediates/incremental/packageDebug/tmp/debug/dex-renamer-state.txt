@@ -1,0 +1,10 @@
+#Mon Jul 12 23:13:08 IST 2021
+base.2=/Users/shubhamsmac/5)30_Intents_and_Intent_Filters_Open_Custom_Activity_from_App_Selector_Screen/app/build/intermediates/dex/debug/mergeProjectDexDebug/8/classes.dex
+path.2=8/classes.dex
+base.1=/Users/shubhamsmac/5)30_Intents_and_Intent_Filters_Open_Custom_Activity_from_App_Selector_Screen/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+path.1=0/classes.dex
+base.0=/Users/shubhamsmac/5)30_Intents_and_Intent_Filters_Open_Custom_Activity_from_App_Selector_Screen/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

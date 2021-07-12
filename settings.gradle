@@ -1,0 +1,2 @@
+rootProject.name = "5) 30_Intents_and_Intent_Filters_Open_Custom_Activity_from_App_Selector_Screen"
+include ':app'

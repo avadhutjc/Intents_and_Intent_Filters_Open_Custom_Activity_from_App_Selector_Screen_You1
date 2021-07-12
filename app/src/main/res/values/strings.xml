@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">5) 30_Intents_and_Intent_Filters_Open_Custom_Activity_from_App_Selector_Screen</string>
+    <string name="enter_your_name">Enter Your Name :</string>
+    <string name="send">send</string>
+</resources>
